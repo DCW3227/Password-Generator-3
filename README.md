@@ -1,5 +1,6 @@
 # Password-Generator-3
 In this challenge, we were told to build a working password generator that meets the critieria 
+https://dcw3227.github.io/Password-Generator-3/ 
 
 
 # User Story 
